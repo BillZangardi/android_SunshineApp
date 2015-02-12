@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sunshine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_map">Map Location</string>
+    <string name="action_share">Share</string>
+
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_detail">Details</string>
+    <string name="title_activity_settings">Settingsy</string>
+
+
+    <!-- PREFERENCES !-->
+    <string name="pref_location_label">Location(Zipcode or City)</string>
+    <string name="pref_location_key">location</string>
+    <string name="pref_location_default">19121</string>
+
+
+    <!-- STATES !-->
+    <string name="pref_state_label">State</string>
+    <string name="pref_state_key">state</string>
+    <string name="pref_state_default">PA</string>
+    <array name="pref_states">
+        <item>AL</item>
+        <item>AR</item>
+        <item>AZ</item>
+        <item>CA</item>
+        <item>CO</item>
+        <item>CT</item>
+        <item>DE</item>
+        <item>DC</item>
+        <item>FL</item>
+        <item>GA</item>
+        <item>HI</item>
+        <item>ID</item>
+        <item>IL</item>
+        <item>IN</item>
+        <item>IA</item>
+        <item>KS</item>
+        <item>KY</item>
+        <item>LA</item>
+        <item>ME</item>
+        <item>MD</item>
+        <item>MA</item>
+        <item>MI</item>
+        <item>MN</item>
+        <item>MS</item>
+        <item>MO</item>
+        <item>MT</item>
+        <item>NE</item>
+        <item>NV</item>
+        <item>NH</item>
+        <item>NJ</item>
+        <item>NM</item>
+        <item>NY</item>
+        <item>NC</item>
+        <item>ND</item>
+        <item>OH</item>
+        <item>OK</item>
+        <item>OR</item>
+        <item>PA</item>
+        <item>RI</item>
+        <item>SC</item>
+        <item>SD</item>
+        <item>TN</item>
+        <item>TX</item>
+        <item>UT</item>
+        <item>VT</item>
+        <item>VA</item>
+        <item>WA</item>
+        <item>WV</item>
+        <item>WI</item>
+        <item>WY</item>
+    </array>
+
+
+    <!-- UNITS !-->
+    <string name="pref_units_label">Units</string>
+    <string name="pref_units_key">units</string>
+    <string name="pref_units_metric">metric</string>
+    <string name="pref_units_imperial">imperial</string>
+    <string name="pref_units_default">Farenheit(ºF)</string>
+    <array name="pref_units_options">
+        <item>Celsius(ºC)</item>
+        <item>Farenheit(ºF)</item>
+    </array>
+    <array name="pref_units_values">
+        <item>metric</item>
+        <item>imperial</item>
+    </array>
+
+    <!-- DAYS !-->
+    <string name="pref_days_label">Forecast Length in Days</string>
+    <string name="pref_days_key">days</string>
+    <string name="pref_days_default">7</string>
+
+
+</resources>
